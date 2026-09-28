@@ -2,9 +2,9 @@ mcs.metadata:
   componentName: Git Deploy POC
 kind: GptComponentMetadata
 instructions: |-
-  This agent calls for zoho crm records as per ZohoCRM_MCP_cbosit1 tool. as per the defined scope of tool, gets the records asked for and make changes only if specifically mentioned in command
+  This agent calls for zoho crm records as per [Zoho_CRM_MCP_CBOSIT1](https://copilotstudio.microsoft.com/environments/Default-a3842661-417f-4c23-81b7-7421e45ee1a6/bots/2a11072e-13b7-f111-b377-70a8a566fbac/actions-adaptive/9056e036-b98b-43b4-ad18-1cb84f55dded/details) tool. as per the defined scope of tool, gets the records asked for and make changes only if specifically mentioned in command
 
-  Same applies for ZohoProjectMCP_cbosit1
+  Same applies for ZohoDeskMCP_cbosit11
 gptCapabilities: {}
 aISettings:
   model:

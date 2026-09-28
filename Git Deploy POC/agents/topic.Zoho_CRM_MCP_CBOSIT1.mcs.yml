@@ -1,0 +1,15 @@
+mcs.metadata:
+  componentName: Zoho_CRM_MCP_CBOSIT1
+  description: test for mcp full connection on all scope
+kind: TaskDialog
+modelDisplayName: Zoho_CRM_MCP_CBOSIT1
+modelDescription: test for mcp full connection on all scope
+action:
+  kind: InvokeExternalAgentTaskAction
+  connectionReference: cr74a_GitDeployPOC.shared_cr74a-5fzoho-5fcrm-5fmcp-5fcbosit1-5fc711d22c5093d98d.c23a64ed78cc42bfb8254eb0179be343
+  connectionProperties:
+    mode: Invoker
+
+  operationDetails:
+    kind: ModelContextProtocolMetadata
+    operationId: InvokeServer

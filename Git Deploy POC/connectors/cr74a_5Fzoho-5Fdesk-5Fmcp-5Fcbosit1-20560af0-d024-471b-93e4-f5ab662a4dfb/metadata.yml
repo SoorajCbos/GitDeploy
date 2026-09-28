@@ -1,0 +1,21 @@
+﻿{
+  "connectorid": "20560af0-d024-471b-93e4-f5ab662a4dfb",
+  "name": "cr74a_5Fzoho-5Fdesk-5Fmcp-5Fcbosit1",
+  "displayname": "Zoho_Desk_MCP_CBOSIT1",
+  "description": "MCP connection based connector to process data",
+  "connectorinternalid": "shared_cr74a-5Fzoho-5Fdesk-5Fmcp-5Fcbosit1-5Fc711d22c5093d98d",
+  "openapidefinition": "connectors/cr74a_5Fzoho-5Fdesk-5Fmcp-5Fcbosit1-20560af0-d024-471b-93e4-f5ab662a4dfb/openapidefinition.json",
+  "connectionparameters": "connectors/cr74a_5Fzoho-5Fdesk-5Fmcp-5Fcbosit1-20560af0-d024-471b-93e4-f5ab662a4dfb/connectionparameters.json",
+  "connectionparametersets": null,
+  "policytemplateinstances": "connectors/cr74a_5Fzoho-5Fdesk-5Fmcp-5Fcbosit1-20560af0-d024-471b-93e4-f5ab662a4dfb/policytemplateinstances.json",
+  "iconbrandcolor": null,
+  "iconblob": "connectors/cr74a_5Fzoho-5Fdesk-5Fmcp-5Fcbosit1-20560af0-d024-471b-93e4-f5ab662a4dfb/iconblob.png",
+  "connectortype": 1,
+  "statecode": 0,
+  "statuscode": 1,
+  "ismanaged": false,
+  "componentstate": 0,
+  "createdon": "2026-09-28T12:14:49Z",
+  "modifiedon": "2026-09-28T12:14:51Z",
+  "versionnumber": 17859275
+}

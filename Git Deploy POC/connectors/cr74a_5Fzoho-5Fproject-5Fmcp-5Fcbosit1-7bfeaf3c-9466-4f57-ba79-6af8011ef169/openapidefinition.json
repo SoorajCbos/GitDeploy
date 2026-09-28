@@ -1,0 +1,30 @@
+﻿{
+  "swagger": "2.0",
+  "info": {
+    "title": "Zoho_Project_MCP_CBOSIT1",
+    "description": "My zoho projects connection for data access",
+    "version": "1.0.0"
+  },
+  "host": "zohoproject-connect-940990040.zohomcp.com",
+  "basePath": "/",
+  "schemes": [
+    "https"
+  ],
+  "paths": {
+    "/mcp/91a2aa2fda19c6e4a2f78f27e1736ef2/message": {
+      "post": {
+        "responses": {
+          "200": {
+            "description": "Immediate Response"
+          }
+        },
+        "x-ms-agentic-protocol": "mcp-streamable-1.0",
+        "operationId": "InvokeServer",
+        "summary": "Zoho_Project_MCP_CBOSIT1",
+        "description": "My zoho projects connection for data access"
+      }
+    }
+  },
+  "securityDefinitions": {},
+  "security": []
+}

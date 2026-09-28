@@ -1,0 +1,15 @@
+mcs.metadata:
+  componentName: Zoho_Desk_MCP_CBOSIT1
+  description: MCP connection based connector to process data
+kind: TaskDialog
+modelDisplayName: Zoho_Desk_MCP_CBOSIT1
+modelDescription: MCP connection based connector to process data
+action:
+  kind: InvokeExternalAgentTaskAction
+  connectionReference: cr74a_GitDeployPOC.shared_cr74a-5fzoho-5fdesk-5fmcp-5fcbosit1-5fc711d22c5093d98d.ecc44269194046479bbbdc435502fa63
+  connectionProperties:
+    mode: Invoker
+
+  operationDetails:
+    kind: ModelContextProtocolMetadata
+    operationId: InvokeServer

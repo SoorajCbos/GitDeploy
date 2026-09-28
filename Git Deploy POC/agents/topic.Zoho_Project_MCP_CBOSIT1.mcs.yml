@@ -1,0 +1,15 @@
+mcs.metadata:
+  componentName: Zoho_Project_MCP_CBOSIT1
+  description: My zoho projects connection for data access
+kind: TaskDialog
+modelDisplayName: Zoho_Project_MCP_CBOSIT1
+modelDescription: My zoho projects connection for data access
+action:
+  kind: InvokeExternalAgentTaskAction
+  connectionReference: cr74a_GitDeployPOC.shared_cr74a-5fzoho-5fproject-5fmcp-5fcbosit1-5fc711d22c5093d98d.473066a278004f23943ff501d971a9ae
+  connectionProperties:
+    mode: Invoker
+
+  operationDetails:
+    kind: ModelContextProtocolMetadata
+    operationId: InvokeServer

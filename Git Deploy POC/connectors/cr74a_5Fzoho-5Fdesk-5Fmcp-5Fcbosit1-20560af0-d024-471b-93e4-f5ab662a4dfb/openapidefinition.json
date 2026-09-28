@@ -1,0 +1,30 @@
+﻿{
+  "swagger": "2.0",
+  "info": {
+    "title": "Zoho_Desk_MCP_CBOSIT1",
+    "description": "MCP connection based connector to process data",
+    "version": "1.0.0"
+  },
+  "host": "desk-ticket-operations-940990040.zohomcp.com",
+  "basePath": "/",
+  "schemes": [
+    "https"
+  ],
+  "paths": {
+    "/mcp/3ef3eae4878f1c5a5561fc157f6f757e/message": {
+      "post": {
+        "responses": {
+          "200": {
+            "description": "Immediate Response"
+          }
+        },
+        "x-ms-agentic-protocol": "mcp-streamable-1.0",
+        "operationId": "InvokeServer",
+        "summary": "Zoho_Desk_MCP_CBOSIT1",
+        "description": "MCP connection based connector to process data"
+      }
+    }
+  },
+  "securityDefinitions": {},
+  "security": []
+}
