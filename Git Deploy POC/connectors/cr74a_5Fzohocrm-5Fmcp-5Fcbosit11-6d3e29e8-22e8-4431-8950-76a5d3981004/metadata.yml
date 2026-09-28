@@ -1,0 +1,21 @@
+﻿{
+  "connectorid": "6d3e29e8-22e8-4431-8950-76a5d3981004",
+  "name": "cr74a_5Fzohocrm-5Fmcp-5Fcbosit11",
+  "displayname": "ZohoCRM_MCP_cbosit11",
+  "description": "MCP server to connect the agent with my demo CRM Org to process organization records",
+  "connectorinternalid": "shared_cr74a-5Fzohocrm-5Fmcp-5Fcbosit11-5Fc711d22c5093d98d",
+  "openapidefinition": "connectors/cr74a_5Fzohocrm-5Fmcp-5Fcbosit11-6d3e29e8-22e8-4431-8950-76a5d3981004/openapidefinition.json",
+  "connectionparameters": "connectors/cr74a_5Fzohocrm-5Fmcp-5Fcbosit11-6d3e29e8-22e8-4431-8950-76a5d3981004/connectionparameters.json",
+  "connectionparametersets": null,
+  "policytemplateinstances": "connectors/cr74a_5Fzohocrm-5Fmcp-5Fcbosit11-6d3e29e8-22e8-4431-8950-76a5d3981004/policytemplateinstances.json",
+  "iconbrandcolor": null,
+  "iconblob": "connectors/cr74a_5Fzohocrm-5Fmcp-5Fcbosit11-6d3e29e8-22e8-4431-8950-76a5d3981004/iconblob.png",
+  "connectortype": 1,
+  "statecode": 0,
+  "statuscode": 1,
+  "ismanaged": false,
+  "componentstate": 0,
+  "createdon": "2026-09-28T08:30:18Z",
+  "modifiedon": "2026-09-28T08:30:21Z",
+  "versionnumber": 17858729
+}

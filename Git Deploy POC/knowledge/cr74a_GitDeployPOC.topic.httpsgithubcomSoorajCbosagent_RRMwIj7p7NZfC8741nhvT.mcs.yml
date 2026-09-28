@@ -1,0 +1,7 @@
+mcs.metadata:
+  componentName: https://github.com/SoorajCbos/agent
+  description: This knowledge source searches information on the web found in https://github.com/SoorajCbos/agent website
+kind: KnowledgeSourceConfiguration
+source:
+  kind: PublicSiteSearchSource
+  site: https://github.com/SoorajCbos/agent

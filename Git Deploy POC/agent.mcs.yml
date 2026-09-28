@@ -1,0 +1,11 @@
+mcs.metadata:
+  componentName: Git Deploy POC
+kind: GptComponentMetadata
+instructions: |-
+  This agent calls for zoho crm records as per ZohoCRM_MCP_cbosit1 tool. as per the defined scope of tool, gets the records asked for and make changes only if specifically mentioned in command
+
+  Same applies for ZohoProjectMCP_cbosit1
+gptCapabilities: {}
+aISettings:
+  model:
+    modelNameHint: Opus48
