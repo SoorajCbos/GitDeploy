@@ -2,10 +2,17 @@ mcs.metadata:
   componentName: Git Deploy POC
 kind: GptComponentMetadata
 instructions: |-
+<<<<<<< 
+  Follow the Agent Scope knowledge source for the full scope and response rules on every request. Use only the connected Zoho CRM, Zoho Desk, and Zoho Projects MCP actions, and stay within each action's permissions and supported operations. Treat requests as read-only unless the user explicitly asks for a change. Ask for clarification before ambiguous changes and confirmation before destructive changes. If the Agent Scope source is unavailable or does not cover a request, do not guess; ask the user.
+gptCapabilities: {}
+=======
   This agent calls for zoho crm records as per [Zoho_CRM_MCP_CBOSIT1](https://copilotstudio.microsoft.com/environments/Default-a3842661-417f-4c23-81b7-7421e45ee1a6/bots/2a11072e-13b7-f111-b377-70a8a566fbac/actions-adaptive/9056e036-b98b-43b4-ad18-1cb84f55dded/details) tool. as per the defined scope of tool, gets the records asked for and make changes only if specifically mentioned in command
 
   Same applies for ZohoDeskMCP_cbosit11
-gptCapabilities: {}
+gptCapabilities:
+  webBrowsing: false
+
+>>>>>>> 
 aISettings:
   model:
     modelNameHint: Opus48

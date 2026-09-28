@@ -1,5 +1,5 @@
 mcs.metadata:
-  componentName: https://github.com/SoorajCbos/GitDeploy.git
+  componentName: https://github.com/SoorajCbos/GitDeploy
   description: This knowledge source searches information on the web found in https://github.com/SoorajCbos/GitDeploy website
 kind: KnowledgeSourceConfiguration
 source:

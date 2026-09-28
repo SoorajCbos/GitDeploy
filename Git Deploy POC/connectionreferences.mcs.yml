@@ -5,7 +5,3 @@
     connectorId: /providers/Microsoft.PowerApps/apis/shared_cr74a-5fzoho-5fdesk-5fmcp-5fcbosit1-5fc711d22c5093d98d
   - connectionReferenceLogicalName: cr74a_GitDeployPOC.shared_cr74a-5fzoho-5fproject-5fmcp-5fcbosit1-5fc711d22c5093d98d.473066a278004f23943ff501d971a9ae
     connectorId: /providers/Microsoft.PowerApps/apis/shared_cr74a-5fzoho-5fproject-5fmcp-5fcbosit1-5fc711d22c5093d98d
-  - connectionReferenceLogicalName: cr74a_GitDeployPOC.shared_cr74a-5fzohocrm-5fmcp-5fcbosit11-5fc711d22c5093d98d.4bf8c83fa52c43179e08b768e849abcd
-    connectorId: /providers/Microsoft.PowerApps/apis/shared_cr74a-5fzohocrm-5fmcp-5fcbosit11-5fc711d22c5093d98d
-  - connectionReferenceLogicalName: cr74a_GitDeployPOC.shared_cr74a-5fzohodeskmcp-5fcbosit11-5fc711d22c5093d98d.2657c3b5476a4253bae32bd07f61bb09
-    connectorId: /providers/Microsoft.PowerApps/apis/shared_cr74a-5fzohodeskmcp-5fcbosit11-5fc711d22c5093d98d
