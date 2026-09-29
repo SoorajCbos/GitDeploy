@@ -1,0 +1,5 @@
+mcs.metadata:
+  componentName: Agent Scope.md
+  description: Use this file to understand scope of my agent, staying inside it.
+kind: FileAttachmentComponentMetadata
+triggerCondition: true
